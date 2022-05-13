@@ -1,0 +1,42 @@
+/*COLOR LIGHT PURPLE #E9DFF5*/
+.logo{
+    width: 16;
+    height: 16;
+}
+.bg-light-purple{
+    background-color: #E9DFF5;
+}
+
+.light-purple{
+    color: #E9DFF5;
+}
+
+a.light-purple:link, a.light-purple:visited, a.light-purple:hover, a.light-purple:active {
+    color: #E9DFF5;
+}
+
+.btn-outline-light-purple{
+    border-color: #E9DFF5;
+}
+
+/*COLOR DARK PURPLE #5C4875*/
+
+.bg-dark-purple{
+    background-color: #5C4875;
+}
+
+.dark-purple{
+    color: #5C4875;
+}
+
+a.dark-purple:link, a.dark-purple:visited, a.dark-purple:hover, a.dark-purple:active {
+    color: #5C4875;
+}
+
+.btn-outline-dark-purple{
+    border-color: #5C4875;
+}
+
+#list-output{
+    position: relative;
+}
